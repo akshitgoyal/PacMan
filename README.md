@@ -1,4 +1,4 @@
-# Noname_Assignment
+# Pacman
 A PacMan duplicated game created using `python` and `pygame` by team No Name.
 
 ## Navigation
@@ -131,7 +131,9 @@ Please note that each team member is followed by a paragraph letting you know ab
 
 -	Akshit Goyal (username(s): akshitgoyal)
 
-  Contribution to the README: In the README documentation, I was responsible for writing about extensions to the game. I listed down three additional features that another developer can extend to our game code. I chose these features because these are the first few features that one would want while improving their game. I also briefly discussed how to implement these features by referring to various segments of our game code. Contributions to the Code: In the game code, I have implemented the scoring system. The scoring system records and updates whenever a pellet or a special object on the board is eaten by the PacMan.I have also fixed the code quality. Since we are using Python to code this game, I have updated all the methods, functions and classes except the classes for ghost (done by Richard) according to the standard Python conventions. Specifically, I have updated the type annotations, return types, and documentation for classes, methods and functions. Finally, I have coded a website for this game. The website gives user a link to our github repository wherein the user can go and follow the install instructions to run the game. The website can be accessed through the following link: https://pacmannoname.herokuapp.com/
+  Contribution to the README: In the README documentation, I was responsible for writing about extensions to the game. I listed down three additional features that another developer can extend to our game code. I chose these features because these are the first few features that one would want while improving their game. I also briefly discussed how to implement these features by referring to various segments of our game code. 
+ 
+ Contributions to the Code: In the game code, I have implemented the scoring system. The scoring system records and updates whenever a pellet or a special object on the board is eaten by the PacMan.I have also fixed the code quality. Since we are using Python to code this game, I have updated all the methods, functions and classes except the classes for ghost (done by Richard) according to the standard Python conventions. Specifically, I have updated the type annotations, return types, and documentation for classes, methods and functions. Finally, I have coded a website for this game. The website gives user a link to our github repository wherein the user can go and follow the install instructions to run the game. The website can be accessed through the following link: https://pacmannoname.herokuapp.com/
 
 
 -	Mohammad Tahvili (username(s): tahvili, Mohammad Tahvili, brebeuftv)
